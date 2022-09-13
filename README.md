@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harish s</h1>
+<h1 align="center">Hi 👋, I'm Harish </h1>
 <h3 align="center">I am pursuing b.tech artificial intelligence and data science from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishsenthil&label=Profile%20views&color=0e75b6&style=flat" alt="harishsenthil" /> </p>

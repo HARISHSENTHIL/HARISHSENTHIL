@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harish S</h1>
+<h1 align="center">Hi, I'm Harish S</h1>
 
 <h3 align="center">Building AI systems, agents, and products at the edge of what's possible.</h3>
 
